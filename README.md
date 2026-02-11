@@ -1,1 +1,1 @@
-# TutorConnect
+**Tutor Connect** is a full-stack web application built using PHP, SQL, HTML, CSS, and JavaScript that connects students with tutors through secure login and personalized dashboards. It includes tutor filtering, feedback and rating system, and real-time session scheduling for efficient and smooth tutor–student interaction.
